@@ -1,0 +1,39 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Bai20
+{
+    internal class Program
+    {
+        static void Main()
+        {
+            Console.OutputEncoding = System.Text.Encoding.UTF8;
+            Console.WriteLine("Bài 20 - Top 3 sinh viên điểm cao nhất | SV: Lê Hoàng Hải - 2415053122213 - 225LTC#01");
+
+            List<Student> students = new List<Student>()
+        {
+            new Student{Id=1, Name="An", Score=8},
+            new Student{Id=2, Name="Binh", Score=6},
+            new Student{Id=3, Name="Chi", Score=9},
+            new Student{Id=4, Name="Dung", Score=7}
+        };
+
+            Console.WriteLine("Danh sách sinh viên ban đầu:");
+            foreach (var s in students)
+            {
+                Console.WriteLine("- " + s.Name + " (Điểm: " + s.Score + ")");
+            }
+
+            var result = students.OrderByDescending(s => s.Score).Take(3);
+
+            Console.WriteLine("\nTop 3 sinh viên điểm cao nhất:");
+            foreach (var s in result)
+            {
+                Console.WriteLine("- " + s.Name + " (Điểm: " + s.Score + ")");
+            }
+        }
+    }
+}
