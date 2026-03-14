@@ -1,0 +1,7 @@
+D:\CNTT\HK2.2_2026\LTC#\BT_LINQ\BaiTapTrenLop_BT_Random\bin\Debug\BaiTapTrenLop_BT_Random.exe.config
+D:\CNTT\HK2.2_2026\LTC#\BT_LINQ\BaiTapTrenLop_BT_Random\bin\Debug\BaiTapTrenLop_BT_Random.exe
+D:\CNTT\HK2.2_2026\LTC#\BT_LINQ\BaiTapTrenLop_BT_Random\bin\Debug\BaiTapTrenLop_BT_Random.pdb
+D:\CNTT\HK2.2_2026\LTC#\BT_LINQ\BaiTapTrenLop_BT_Random\obj\Debug\BaiTapTrenLop_BT_Random.csproj.AssemblyReference.cache
+D:\CNTT\HK2.2_2026\LTC#\BT_LINQ\BaiTapTrenLop_BT_Random\obj\Debug\BaiTapTrenLop_BT_Random.csproj.CoreCompileInputs.cache
+D:\CNTT\HK2.2_2026\LTC#\BT_LINQ\BaiTapTrenLop_BT_Random\obj\Debug\BaiTapTrenLop_BT_Random.exe
+D:\CNTT\HK2.2_2026\LTC#\BT_LINQ\BaiTapTrenLop_BT_Random\obj\Debug\BaiTapTrenLop_BT_Random.pdb
